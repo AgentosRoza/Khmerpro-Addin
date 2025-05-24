@@ -224,6 +224,178 @@
     <ROW File="register.jpg" Component_="about.jpg" FileName="register.jpg" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro\theme\register.jpg" SelfReg="false"/>
     <ROW File="vbacode.jpg" Component_="about.jpg" FileName="vbacode.jpg" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro\theme\vbacode.jpg" SelfReg="false"/>
     <ROW File="Khmerpro.dotm" Component_="dataversion.json" FileName="KHMERP~1.DOT|Khmerpro.dotm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro.dotm" SelfReg="false"/>
+    <ROW File="KhmerM1_Version1.00.ttf" Component_="AgentosUI.ttf" FileName="KHMERM~1.TTF|Khmer M1_Version 1.00.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\Khmer M1_Version 1.00.ttf" SelfReg="false"/>
+    <ROW File="KhmerMool1.ttf" Component_="AgentosUI.ttf" FileName="KHMERM~2.TTF|KhmerMool1.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerMool1.ttf" SelfReg="false"/>
+    <ROW File="KhmerOS.ttf" Component_="AgentosUI.ttf" FileName="KhmerOS.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOS.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSApsara.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~1.TTF|KhmerOSApsara.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSApsara.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSApsaraNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~2.TTF|KhmerOSApsaraNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSApsaraNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSBattambang.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~3.TTF|KhmerOSBattambang.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSBattambang.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSBattambangNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~4.TTF|KhmerOSBattambangNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSBattambangNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSBokor.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~5.TTF|KhmerOSBokor.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSBokor.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSBokorNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~6.TTF|KhmerOSBokorNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSBokorNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSClassic.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~7.TTF|KhmerOSClassic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSClassic.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSClassicNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~8.TTF|KhmerOSClassicNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSClassicNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSContent.ttf" Component_="AgentosUI.ttf" FileName="KHMERO~9.TTF|KhmerOSContent.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSContent.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSContentNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~10.TTF|KhmerOSContentNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSContentNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSFasthand.ttf" Component_="AgentosUI.ttf" FileName="KHMER~11.TTF|KhmerOSFasthand.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSFasthand.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSFasthandNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~12.TTF|KhmerOSFasthandNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSFasthandNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSFreehand.ttf" Component_="AgentosUI.ttf" FileName="KHMER~13.TTF|KhmerOSFreehand.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSFreehand.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSFreehandNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~14.TTF|KhmerOSFreehandNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSFreehandNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSKienSvay.ttf" Component_="AgentosUI.ttf" FileName="KHMER~15.TTF|KhmerOSKienSvay.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSKienSvay.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSKienSvayNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~16.TTF|KhmerOSKienSvayNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSKienSvayNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMetalChrieng.ttf" Component_="AgentosUI.ttf" FileName="KHMER~17.TTF|KhmerOSMetalChrieng.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMetalChrieng.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMetalChriengNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~18.TTF|KhmerOSMetalChriengNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMetalChriengNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuol.ttf" Component_="AgentosUI.ttf" FileName="KHMER~19.TTF|KhmerOSMuol.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuol.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuolLight.ttf" Component_="AgentosUI.ttf" FileName="KHMER~20.TTF|KhmerOSMuolLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuolLight.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuolLightNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~21.TTF|KhmerOSMuolLightNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuolLightNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuolNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~22.TTF|KhmerOSMuolNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuolNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuolPali.ttf" Component_="AgentosUI.ttf" FileName="KHMER~23.TTF|KhmerOSMuolPali.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuolPali.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSMuolPaliNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~24.TTF|KhmerOSMuolPaliNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSMuolPaliNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSNiroth.ttf" Component_="AgentosUI.ttf" FileName="KHMER~25.TTF|KhmerOSNiroth.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSNiroth.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSNirothNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~26.TTF|KhmerOSNirothNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSNirothNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~27.TTF|KhmerOSNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSSiemreap.ttf" Component_="AgentosUI.ttf" FileName="KHMER~28.TTF|KhmerOSSiemreap.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSSiemreap.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSSiemreapNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~29.TTF|KhmerOSSiemreapNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSSiemreapNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSSystem.ttf" Component_="AgentosUI.ttf" FileName="KHMER~30.TTF|KhmerOSSystem.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSSystem.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSSystemNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~31.TTF|KhmerOSSystemNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSSystemNumKh.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSWatPhnom.ttf" Component_="AgentosUI.ttf" FileName="KHMER~32.TTF|KhmerOSWatPhnom.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSWatPhnom.ttf" SelfReg="false"/>
+    <ROW File="KhmerOSWatPhnomNumKh.ttf" Component_="AgentosUI.ttf" FileName="KHMER~33.TTF|KhmerOSWatPhnomNumKh.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\KhmerOSWatPhnomNumKh.ttf" SelfReg="false"/>
+    <ROW File="Tacteing.ttf" Component_="AgentosUI.ttf" FileName="Tacteing.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\KhmerOS\Tacteing.ttf" SelfReg="false"/>
+    <ROW File="AngkorRegular.ttf" Component_="AgentosUI.ttf" FileName="ANGKOR~1.TTF|Angkor-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Angkor-Regular.ttf" SelfReg="false"/>
+    <ROW File="BattambangBlack.ttf" Component_="AgentosUI.ttf" FileName="BATTAM~1.TTF|Battambang-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Battambang-Black.ttf" SelfReg="false"/>
+    <ROW File="BattambangBold.ttf" Component_="AgentosUI.ttf" FileName="BATTAM~2.TTF|Battambang-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Battambang-Bold.ttf" SelfReg="false"/>
+    <ROW File="BattambangLight.ttf" Component_="AgentosUI.ttf" FileName="BATTAM~3.TTF|Battambang-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Battambang-Light.ttf" SelfReg="false"/>
+    <ROW File="BattambangRegular.ttf" Component_="AgentosUI.ttf" FileName="BATTAM~4.TTF|Battambang-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Battambang-Regular.ttf" SelfReg="false"/>
+    <ROW File="BattambangThin.ttf" Component_="AgentosUI.ttf" FileName="BATTAM~5.TTF|Battambang-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Battambang-Thin.ttf" SelfReg="false"/>
+    <ROW File="BayonRegular.ttf" Component_="AgentosUI.ttf" FileName="BAYON-~1.TTF|Bayon-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Bayon-Regular.ttf" SelfReg="false"/>
+    <ROW File="BokorRegular.ttf" Component_="AgentosUI.ttf" FileName="BOKOR-~1.TTF|Bokor-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Bokor-Regular.ttf" SelfReg="false"/>
+    <ROW File="ChenlaRegular.ttf" Component_="AgentosUI.ttf" FileName="CHENLA~1.TTF|Chenla-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Chenla-Regular.ttf" SelfReg="false"/>
+    <ROW File="ContentBold.ttf" Component_="AgentosUI.ttf" FileName="CONTEN~1.TTF|Content-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Content-Bold.ttf" SelfReg="false"/>
+    <ROW File="ContentRegular.ttf" Component_="AgentosUI.ttf" FileName="CONTEN~2.TTF|Content-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Content-Regular.ttf" SelfReg="false"/>
+    <ROW File="DangrekRegular.ttf" Component_="AgentosUI.ttf" FileName="DANGRE~1.TTF|Dangrek-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Dangrek-Regular.ttf" SelfReg="false"/>
+    <ROW File="FasthandRegular.ttf" Component_="AgentosUI.ttf" FileName="FASTHA~1.TTF|Fasthand-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Fasthand-Regular.ttf" SelfReg="false"/>
+    <ROW File="FreehandRegular.ttf" Component_="AgentosUI.ttf" FileName="FREEHA~1.TTF|Freehand-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Freehand-Regular.ttf" SelfReg="false"/>
+    <ROW File="HanumanBlack.ttf" Component_="AgentosUI.ttf" FileName="HANUMA~1.TTF|Hanuman-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Hanuman-Black.ttf" SelfReg="false"/>
+    <ROW File="HanumanBold.ttf" Component_="AgentosUI.ttf" FileName="HANUMA~2.TTF|Hanuman-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Hanuman-Bold.ttf" SelfReg="false"/>
+    <ROW File="HanumanLight.ttf" Component_="AgentosUI.ttf" FileName="HANUMA~3.TTF|Hanuman-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Hanuman-Light.ttf" SelfReg="false"/>
+    <ROW File="HanumanRegular.ttf" Component_="AgentosUI.ttf" FileName="HANUMA~4.TTF|Hanuman-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Hanuman-Regular.ttf" SelfReg="false"/>
+    <ROW File="HanumanThin.ttf" Component_="AgentosUI.ttf" FileName="HANUMA~5.TTF|Hanuman-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Hanuman-Thin.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProBold.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~1.TTF|KantumruyPro-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Bold.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProBoldItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~2.TTF|KantumruyPro-BoldItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-BoldItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProExtraLight.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~3.TTF|KantumruyPro-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProExtraLightItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~4.TTF|KantumruyPro-ExtraLightItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-ExtraLightItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~5.TTF|KantumruyPro-Italic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Italic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProItalicVariableFont_wght.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~6.TTF|KantumruyPro-Italic-VariableFont_wght.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Italic-VariableFont_wght.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProLight.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~7.TTF|KantumruyPro-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Light.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProLightItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~8.TTF|KantumruyPro-LightItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-LightItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProMedium.ttf" Component_="AgentosUI.ttf" FileName="KANTUM~9.TTF|KantumruyPro-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Medium.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProMediumItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTU~10.TTF|KantumruyPro-MediumItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-MediumItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProRegular.ttf" Component_="AgentosUI.ttf" FileName="KANTU~11.TTF|KantumruyPro-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Regular.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProSemiBold.ttf" Component_="AgentosUI.ttf" FileName="KANTU~12.TTF|KantumruyPro-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProSemiBoldItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTU~13.TTF|KantumruyPro-SemiBoldItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-SemiBoldItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProThin.ttf" Component_="AgentosUI.ttf" FileName="KANTU~14.TTF|KantumruyPro-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-Thin.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProThinItalic.ttf" Component_="AgentosUI.ttf" FileName="KANTU~15.TTF|KantumruyPro-ThinItalic.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-ThinItalic.ttf" SelfReg="false"/>
+    <ROW File="KantumruyProVariableFont_wght.ttf" Component_="AgentosUI.ttf" FileName="KANTU~16.TTF|KantumruyPro-VariableFont_wght.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KantumruyPro-VariableFont_wght.ttf" SelfReg="false"/>
+    <ROW File="KdamThmorProRegular.ttf" Component_="AgentosUI.ttf" FileName="KDAMTH~1.TTF|KdamThmorPro-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KdamThmorPro-Regular.ttf" SelfReg="false"/>
+    <ROW File="KhmerRegular.ttf" Component_="AgentosUI.ttf" FileName="KHMER-~1.TTF|Khmer-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Khmer-Regular.ttf" SelfReg="false"/>
+    <ROW File="KohSantepheapBlack.ttf" Component_="AgentosUI.ttf" FileName="KOHSAN~1.TTF|KohSantepheap-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KohSantepheap-Black.ttf" SelfReg="false"/>
+    <ROW File="KohSantepheapBold.ttf" Component_="AgentosUI.ttf" FileName="KOHSAN~2.TTF|KohSantepheap-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KohSantepheap-Bold.ttf" SelfReg="false"/>
+    <ROW File="KohSantepheapLight.ttf" Component_="AgentosUI.ttf" FileName="KOHSAN~3.TTF|KohSantepheap-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KohSantepheap-Light.ttf" SelfReg="false"/>
+    <ROW File="KohSantepheapRegular.ttf" Component_="AgentosUI.ttf" FileName="KOHSAN~4.TTF|KohSantepheap-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KohSantepheap-Regular.ttf" SelfReg="false"/>
+    <ROW File="KohSantepheapThin.ttf" Component_="AgentosUI.ttf" FileName="KOHSAN~5.TTF|KohSantepheap-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KohSantepheap-Thin.ttf" SelfReg="false"/>
+    <ROW File="KonkhmerSleokchherRegular.ttf" Component_="AgentosUI.ttf" FileName="KONKHM~1.TTF|KonkhmerSleokchher-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\KonkhmerSleokchher-Regular.ttf" SelfReg="false"/>
+    <ROW File="KoulenRegular.ttf" Component_="AgentosUI.ttf" FileName="KOULEN~1.TTF|Koulen-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Koulen-Regular.ttf" SelfReg="false"/>
+    <ROW File="MetalRegular.ttf" Component_="AgentosUI.ttf" FileName="METAL-~1.TTF|Metal-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Metal-Regular.ttf" SelfReg="false"/>
+    <ROW File="MoulpaliRegular.ttf" Component_="AgentosUI.ttf" FileName="MOULPA~1.TTF|Moulpali-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Moulpali-Regular.ttf" SelfReg="false"/>
+    <ROW File="MoulRegular.ttf" Component_="AgentosUI.ttf" FileName="MOUL-R~1.TTF|Moul-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Moul-Regular.ttf" SelfReg="false"/>
+    <ROW File="NokoraBlack.ttf" Component_="AgentosUI.ttf" FileName="NOKORA~1.TTF|Nokora-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Nokora-Black.ttf" SelfReg="false"/>
+    <ROW File="NokoraBold.ttf" Component_="AgentosUI.ttf" FileName="NOKORA~2.TTF|Nokora-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Nokora-Bold.ttf" SelfReg="false"/>
+    <ROW File="NokoraLight.ttf" Component_="AgentosUI.ttf" FileName="NOKORA~3.TTF|Nokora-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Nokora-Light.ttf" SelfReg="false"/>
+    <ROW File="NokoraRegular.ttf" Component_="AgentosUI.ttf" FileName="NOKORA~4.TTF|Nokora-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Nokora-Regular.ttf" SelfReg="false"/>
+    <ROW File="NokoraThin.ttf" Component_="AgentosUI.ttf" FileName="NOKORA~5.TTF|Nokora-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Nokora-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~1.TTF|NotoSansKhmer_Condensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~2.TTF|NotoSansKhmer_Condensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~3.TTF|NotoSansKhmer_Condensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~4.TTF|NotoSansKhmer_Condensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~5.TTF|NotoSansKhmer_Condensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~6.TTF|NotoSansKhmer_Condensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~7.TTF|NotoSansKhmer_Condensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~8.TTF|NotoSansKhmer_Condensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_CondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOSA~9.TTF|NotoSansKhmer_Condensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_Condensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~10.TTF|NotoSansKhmer_ExtraCondensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~11.TTF|NotoSansKhmer_ExtraCondensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~12.TTF|NotoSansKhmer_ExtraCondensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~13.TTF|NotoSansKhmer_ExtraCondensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~14.TTF|NotoSansKhmer_ExtraCondensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~15.TTF|NotoSansKhmer_ExtraCondensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~16.TTF|NotoSansKhmer_ExtraCondensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~17.TTF|NotoSansKhmer_ExtraCondensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_ExtraCondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~18.TTF|NotoSansKhmer_ExtraCondensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_ExtraCondensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~19.TTF|NotoSansKhmer_SemiCondensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~20.TTF|NotoSansKhmer_SemiCondensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~21.TTF|NotoSansKhmer_SemiCondensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~22.TTF|NotoSansKhmer_SemiCondensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~23.TTF|NotoSansKhmer_SemiCondensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~24.TTF|NotoSansKhmer_SemiCondensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~25.TTF|NotoSansKhmer_SemiCondensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~26.TTF|NotoSansKhmer_SemiCondensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmer_SemiCondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~27.TTF|NotoSansKhmer_SemiCondensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer_SemiCondensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~28.TTF|NotoSansKhmer-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~29.TTF|NotoSansKhmer-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~30.TTF|NotoSansKhmer-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~31.TTF|NotoSansKhmer-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~32.TTF|NotoSansKhmer-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~33.TTF|NotoSansKhmer-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~34.TTF|NotoSansKhmer-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~35.TTF|NotoSansKhmer-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~36.TTF|NotoSansKhmer-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSansKhmerVariableFont_wdthwght.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~37.TTF|NotoSansKhmer-VariableFont_wdth,wght.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSansKhmer-VariableFont_wdth,wght.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~1.TTF|NotoSerifKhmer_Condensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~2.TTF|NotoSerifKhmer_Condensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~3.TTF|NotoSerifKhmer_Condensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~4.TTF|NotoSerifKhmer_Condensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~5.TTF|NotoSerifKhmer_Condensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~6.TTF|NotoSerifKhmer_Condensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~7.TTF|NotoSerifKhmer_Condensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~8.TTF|NotoSerifKhmer_Condensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_CondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOSE~9.TTF|NotoSerifKhmer_Condensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_Condensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~38.TTF|NotoSerifKhmer_ExtraCondensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~39.TTF|NotoSerifKhmer_ExtraCondensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~40.TTF|NotoSerifKhmer_ExtraCondensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~41.TTF|NotoSerifKhmer_ExtraCondensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~42.TTF|NotoSerifKhmer_ExtraCondensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~43.TTF|NotoSerifKhmer_ExtraCondensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~44.TTF|NotoSerifKhmer_ExtraCondensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~45.TTF|NotoSerifKhmer_ExtraCondensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_ExtraCondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~46.TTF|NotoSerifKhmer_ExtraCondensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_ExtraCondensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~47.TTF|NotoSerifKhmer_SemiCondensed-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~48.TTF|NotoSerifKhmer_SemiCondensed-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~49.TTF|NotoSerifKhmer_SemiCondensed-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~50.TTF|NotoSerifKhmer_SemiCondensed-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~51.TTF|NotoSerifKhmer_SemiCondensed-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~52.TTF|NotoSerifKhmer_SemiCondensed-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~53.TTF|NotoSerifKhmer_SemiCondensed-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~54.TTF|NotoSerifKhmer_SemiCondensed-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmer_SemiCondensedThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~55.TTF|NotoSerifKhmer_SemiCondensed-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer_SemiCondensed-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerBlack.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~56.TTF|NotoSerifKhmer-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Black.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~57.TTF|NotoSerifKhmer-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Bold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerExtraBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~58.TTF|NotoSerifKhmer-ExtraBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-ExtraBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerExtraLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~59.TTF|NotoSerifKhmer-ExtraLight.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-ExtraLight.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerLight.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~60.TTF|NotoSerifKhmer-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Light.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerMedium.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~61.TTF|NotoSerifKhmer-Medium.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Medium.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerRegular.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~62.TTF|NotoSerifKhmer-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Regular.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerSemiBold.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~63.TTF|NotoSerifKhmer-SemiBold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-SemiBold.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerThin.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~64.TTF|NotoSerifKhmer-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-Thin.ttf" SelfReg="false"/>
+    <ROW File="NotoSerifKhmerVariableFont_wdthwght.ttf" Component_="AgentosUI.ttf" FileName="NOTOS~65.TTF|NotoSerifKhmer-VariableFont_wdth,wght.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\NotoSerifKhmer-VariableFont_wdth,wght.ttf" SelfReg="false"/>
+    <ROW File="OdorMeanCheyRegular.ttf" Component_="AgentosUI.ttf" FileName="ODORME~1.TTF|OdorMeanChey-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\OdorMeanChey-Regular.ttf" SelfReg="false"/>
+    <ROW File="PreahvihearRegular.ttf" Component_="AgentosUI.ttf" FileName="PREAHV~1.TTF|Preahvihear-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Preahvihear-Regular.ttf" SelfReg="false"/>
+    <ROW File="SiemreapRegular.ttf" Component_="AgentosUI.ttf" FileName="SIEMRE~1.TTF|Siemreap-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Siemreap-Regular.ttf" SelfReg="false"/>
+    <ROW File="SuwannaphumBlack.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~1.TTF|Suwannaphum-Black.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Black.ttf" SelfReg="false"/>
+    <ROW File="SuwannaphumBold.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~2.TTF|Suwannaphum-Bold.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Bold.ttf" SelfReg="false"/>
+    <ROW File="SuwannaphumLight.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~3.TTF|Suwannaphum-Light.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Light.ttf" SelfReg="false"/>
+    <ROW File="SuwannaphumRegular.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~4.TTF|Suwannaphum-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Regular.ttf" SelfReg="false"/>
+    <ROW File="SuwannaphumThin.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~5.TTF|Suwannaphum-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Thin.ttf" SelfReg="false"/>
+    <ROW File="TapromRegular.ttf" Component_="AgentosUI.ttf" FileName="TAPROM~1.TTF|Taprom-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Taprom-Regular.ttf" SelfReg="false"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
     <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
@@ -432,6 +604,178 @@
     <ROW File_="segoeuisl_0.ttf"/>
     <ROW File_="seguisb_0.ttf"/>
     <ROW File_="TahomaNumKhRegular.ttf"/>
+    <ROW File_="KhmerM1_Version1.00.ttf"/>
+    <ROW File_="KhmerMool1.ttf"/>
+    <ROW File_="KhmerOS.ttf"/>
+    <ROW File_="KhmerOSApsara.ttf"/>
+    <ROW File_="KhmerOSApsaraNumKh.ttf"/>
+    <ROW File_="KhmerOSBattambang.ttf"/>
+    <ROW File_="KhmerOSBattambangNumKh.ttf"/>
+    <ROW File_="KhmerOSBokor.ttf"/>
+    <ROW File_="KhmerOSBokorNumKh.ttf"/>
+    <ROW File_="KhmerOSClassic.ttf"/>
+    <ROW File_="KhmerOSClassicNumKh.ttf"/>
+    <ROW File_="KhmerOSContent.ttf"/>
+    <ROW File_="KhmerOSContentNumKh.ttf"/>
+    <ROW File_="KhmerOSFasthand.ttf"/>
+    <ROW File_="KhmerOSFasthandNumKh.ttf"/>
+    <ROW File_="KhmerOSFreehand.ttf"/>
+    <ROW File_="KhmerOSFreehandNumKh.ttf"/>
+    <ROW File_="KhmerOSKienSvay.ttf"/>
+    <ROW File_="KhmerOSKienSvayNumKh.ttf"/>
+    <ROW File_="KhmerOSMetalChrieng.ttf"/>
+    <ROW File_="KhmerOSMetalChriengNumKh.ttf"/>
+    <ROW File_="KhmerOSMuol.ttf"/>
+    <ROW File_="KhmerOSMuolLight.ttf"/>
+    <ROW File_="KhmerOSMuolLightNumKh.ttf"/>
+    <ROW File_="KhmerOSMuolNumKh.ttf"/>
+    <ROW File_="KhmerOSMuolPali.ttf"/>
+    <ROW File_="KhmerOSMuolPaliNumKh.ttf"/>
+    <ROW File_="KhmerOSNiroth.ttf"/>
+    <ROW File_="KhmerOSNirothNumKh.ttf"/>
+    <ROW File_="KhmerOSNumKh.ttf"/>
+    <ROW File_="KhmerOSSiemreap.ttf"/>
+    <ROW File_="KhmerOSSiemreapNumKh.ttf"/>
+    <ROW File_="KhmerOSSystem.ttf"/>
+    <ROW File_="KhmerOSSystemNumKh.ttf"/>
+    <ROW File_="KhmerOSWatPhnom.ttf"/>
+    <ROW File_="KhmerOSWatPhnomNumKh.ttf"/>
+    <ROW File_="Tacteing.ttf"/>
+    <ROW File_="AngkorRegular.ttf"/>
+    <ROW File_="BattambangBlack.ttf"/>
+    <ROW File_="BattambangBold.ttf"/>
+    <ROW File_="BattambangLight.ttf"/>
+    <ROW File_="BattambangRegular.ttf"/>
+    <ROW File_="BattambangThin.ttf"/>
+    <ROW File_="BayonRegular.ttf"/>
+    <ROW File_="BokorRegular.ttf"/>
+    <ROW File_="ChenlaRegular.ttf"/>
+    <ROW File_="ContentBold.ttf"/>
+    <ROW File_="ContentRegular.ttf"/>
+    <ROW File_="DangrekRegular.ttf"/>
+    <ROW File_="FasthandRegular.ttf"/>
+    <ROW File_="FreehandRegular.ttf"/>
+    <ROW File_="HanumanBlack.ttf"/>
+    <ROW File_="HanumanBold.ttf"/>
+    <ROW File_="HanumanLight.ttf"/>
+    <ROW File_="HanumanRegular.ttf"/>
+    <ROW File_="HanumanThin.ttf"/>
+    <ROW File_="KantumruyProBold.ttf"/>
+    <ROW File_="KantumruyProBoldItalic.ttf"/>
+    <ROW File_="KantumruyProExtraLight.ttf"/>
+    <ROW File_="KantumruyProExtraLightItalic.ttf"/>
+    <ROW File_="KantumruyProItalic.ttf"/>
+    <ROW File_="KantumruyProItalicVariableFont_wght.ttf"/>
+    <ROW File_="KantumruyProLight.ttf"/>
+    <ROW File_="KantumruyProLightItalic.ttf"/>
+    <ROW File_="KantumruyProMedium.ttf"/>
+    <ROW File_="KantumruyProMediumItalic.ttf"/>
+    <ROW File_="KantumruyProRegular.ttf"/>
+    <ROW File_="KantumruyProSemiBold.ttf"/>
+    <ROW File_="KantumruyProSemiBoldItalic.ttf"/>
+    <ROW File_="KantumruyProThin.ttf"/>
+    <ROW File_="KantumruyProThinItalic.ttf"/>
+    <ROW File_="KantumruyProVariableFont_wght.ttf"/>
+    <ROW File_="KdamThmorProRegular.ttf"/>
+    <ROW File_="KhmerRegular.ttf"/>
+    <ROW File_="KohSantepheapBlack.ttf"/>
+    <ROW File_="KohSantepheapBold.ttf"/>
+    <ROW File_="KohSantepheapLight.ttf"/>
+    <ROW File_="KohSantepheapRegular.ttf"/>
+    <ROW File_="KohSantepheapThin.ttf"/>
+    <ROW File_="KonkhmerSleokchherRegular.ttf"/>
+    <ROW File_="KoulenRegular.ttf"/>
+    <ROW File_="MetalRegular.ttf"/>
+    <ROW File_="MoulpaliRegular.ttf"/>
+    <ROW File_="MoulRegular.ttf"/>
+    <ROW File_="NokoraBlack.ttf"/>
+    <ROW File_="NokoraBold.ttf"/>
+    <ROW File_="NokoraLight.ttf"/>
+    <ROW File_="NokoraRegular.ttf"/>
+    <ROW File_="NokoraThin.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedBlack.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedBold.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedExtraBold.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedExtraLight.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedLight.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedMedium.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedRegular.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedSemiBold.ttf"/>
+    <ROW File_="NotoSansKhmer_CondensedThin.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedBlack.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedBold.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedExtraBold.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedExtraLight.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedLight.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedMedium.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedRegular.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedSemiBold.ttf"/>
+    <ROW File_="NotoSansKhmer_ExtraCondensedThin.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedBlack.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedBold.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedExtraBold.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedExtraLight.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedLight.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedMedium.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedRegular.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedSemiBold.ttf"/>
+    <ROW File_="NotoSansKhmer_SemiCondensedThin.ttf"/>
+    <ROW File_="NotoSansKhmerBlack.ttf"/>
+    <ROW File_="NotoSansKhmerBold.ttf"/>
+    <ROW File_="NotoSansKhmerExtraBold.ttf"/>
+    <ROW File_="NotoSansKhmerExtraLight.ttf"/>
+    <ROW File_="NotoSansKhmerLight.ttf"/>
+    <ROW File_="NotoSansKhmerMedium.ttf"/>
+    <ROW File_="NotoSansKhmerRegular.ttf"/>
+    <ROW File_="NotoSansKhmerSemiBold.ttf"/>
+    <ROW File_="NotoSansKhmerThin.ttf"/>
+    <ROW File_="NotoSansKhmerVariableFont_wdthwght.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedBlack.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedExtraBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedExtraLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedMedium.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedRegular.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedSemiBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_CondensedThin.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedBlack.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedExtraBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedExtraLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedMedium.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedRegular.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedSemiBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_ExtraCondensedThin.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedBlack.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedExtraBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedExtraLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedLight.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedMedium.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedRegular.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedSemiBold.ttf"/>
+    <ROW File_="NotoSerifKhmer_SemiCondensedThin.ttf"/>
+    <ROW File_="NotoSerifKhmerBlack.ttf"/>
+    <ROW File_="NotoSerifKhmerBold.ttf"/>
+    <ROW File_="NotoSerifKhmerExtraBold.ttf"/>
+    <ROW File_="NotoSerifKhmerExtraLight.ttf"/>
+    <ROW File_="NotoSerifKhmerLight.ttf"/>
+    <ROW File_="NotoSerifKhmerMedium.ttf"/>
+    <ROW File_="NotoSerifKhmerRegular.ttf"/>
+    <ROW File_="NotoSerifKhmerSemiBold.ttf"/>
+    <ROW File_="NotoSerifKhmerThin.ttf"/>
+    <ROW File_="NotoSerifKhmerVariableFont_wdthwght.ttf"/>
+    <ROW File_="OdorMeanCheyRegular.ttf"/>
+    <ROW File_="PreahvihearRegular.ttf"/>
+    <ROW File_="SiemreapRegular.ttf"/>
+    <ROW File_="SuwannaphumBlack.ttf"/>
+    <ROW File_="SuwannaphumBold.ttf"/>
+    <ROW File_="SuwannaphumLight.ttf"/>
+    <ROW File_="SuwannaphumRegular.ttf"/>
+    <ROW File_="SuwannaphumThin.ttf"/>
+    <ROW File_="TapromRegular.ttf"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
     <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
