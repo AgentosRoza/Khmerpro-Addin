@@ -223,6 +223,7 @@
     <ROW File="README.md_7" Component_="about.jpg" FileName="README.md" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro\theme\README.md" SelfReg="false"/>
     <ROW File="register.jpg" Component_="about.jpg" FileName="register.jpg" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro\theme\register.jpg" SelfReg="false"/>
     <ROW File="vbacode.jpg" Component_="about.jpg" FileName="vbacode.jpg" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro\theme\vbacode.jpg" SelfReg="false"/>
+    <ROW File="Khmerpro.dotm" Component_="dataversion.json" FileName="KHMERP~1.DOT|Khmerpro.dotm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro.dotm" SelfReg="false"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
     <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
