@@ -14,7 +14,7 @@
     <ROW Property="ARPURLINFOABOUT" Value="https://www.thecosmosdigi.com/"/>
     <ROW Property="AiEmbeddedUI" Value="1"/>
     <ROW Property="AiWinUI" Value="1"/>
-    <ROW Property="AppLogo" Value="applogo.png" MultiBuildValue="DefaultBuild:app1.png" Type="1" MsiKey="AppLogo"/>
+    <ROW Property="AppLogo" Value="applogo.png" MultiBuildValue="DefaultBuild:app.png" Type="1" MsiKey="AppLogo"/>
     <ROW Property="CTRLS" Value="3"/>
     <ROW Property="Manufacturer" Value="Agentos"/>
     <ROW Property="ProductCode" Value="1033:{40540D49-5EC0-4C66-B951-43B7E2B91591} " Type="16"/>
@@ -138,7 +138,7 @@
   <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
     <ROW File="DesktopOK_x64.exe" Component_="DesktopOK_x64.exe" FileName="DESKTO~2.EXE|DesktopOK_x64.exe" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\DesktopOK_x64.exe" SelfReg="false"/>
     <ROW File="khmermackey.png" Component_="khmermackey.png" FileName="KHMERM~1.PNG|khmermackey.png" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\khmermackey.png" SelfReg="false"/>
-    <ROW File="Normal.dotm" Component_="Normal.dotm" FileName="NORMAL~1.DOT|Normal.dotm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\Normal.dotm" SelfReg="false"/>
+    <ROW File="Normal.dotm" Component_="Normal.dotm" FileName="NORMAL~1.DOT|Normal.dotm" Version="65535.65535.65535.65535" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\Normal.dotm" SelfReg="false"/>
     <ROW File="dataversion.json" Component_="dataversion.json" FileName="DATAVE~1.JSO|dataversion.json" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\dataversion.json" SelfReg="false"/>
     <ROW File="Khmerpro.xlam" Component_="dataversion.json" FileName="KHMERP~1.XLA|Khmerpro.xlam" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\Khmerpro.xlam" SelfReg="false"/>
     <ROW File="AgentosUI.ttf" Component_="AgentosUI.ttf" FileName="AGENTO~1.TTF|AgentosUI.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\AgKhmer\AgentosUI.ttf" SelfReg="false"/>
@@ -433,7 +433,7 @@
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
     <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
-    <ROW Name="app1.png" SourcePath="..\..\..\Downloads\app (1).png"/>
+    <ROW Name="app.png" SourcePath="app.png"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiConditionComponent">
     <ROW Feature_="AI64BitFiles" Level="0" Condition="NOT VersionNT64"/>
