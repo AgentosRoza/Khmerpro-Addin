@@ -20,7 +20,7 @@
     <ROW Property="ProductCode" Value="1033:{40540D49-5EC0-4C66-B951-43B7E2B91591} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="Khmerpro"/>
-    <ROW Property="ProductVersion" Value="2.3.0" Options="32"/>
+    <ROW Property="ProductVersion" Value="2.3.1" Options="32"/>
     <ROW Property="RUNAPPLICATION" Value="1" Type="4"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
     <ROW Property="UpgradeCode" Value="{953C4D97-288B-40D9-91F4-9BD4E85E44FD}"/>
