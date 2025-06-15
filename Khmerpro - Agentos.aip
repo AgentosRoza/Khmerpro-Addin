@@ -57,6 +57,7 @@
     <ROW Directory="i386_Dir" Directory_Parent="khmermac_Dir" DefaultDir="i386" DirectoryOptions="3"/>
     <ROW Directory="ia64_Dir" Directory_Parent="khmermac_Dir" DefaultDir="ia64" DirectoryOptions="3"/>
     <ROW Directory="khmermac_Dir" Directory_Parent="APPDIR" DefaultDir="khmermac" DirectoryOptions="3"/>
+    <ROW Directory="khmerprobackup_Dir" Directory_Parent="LiveContent_Dir" DefaultDir="KHMERP~1|khmerprobackup"/>
     <ROW Directory="modulefiles_Dir" Directory_Parent="Khmerpro_Dir" DefaultDir="MODULE~1|modulefiles"/>
     <ROW Directory="theme_Dir" Directory_Parent="Khmerpro_Dir" DefaultDir="theme"/>
     <ROW Directory="wow64_Dir" Directory_Parent="khmermac_Dir" DefaultDir="wow64" DirectoryOptions="3"/>
@@ -115,6 +116,7 @@
     <ROW Component="clsExecAndUndo.cls" ComponentId="{70564111-A774-4FE5-89BA-841B5CA45315}" Directory_="clsfiles_Dir" Attributes="0" KeyPath="clsExecAndUndo.cls" Type="0"/>
     <ROW Component="copen" ComponentId="{3666A1CB-1DB4-4510-949E-2CA5693B3FCC}" Directory_="APPDIR" Attributes="4" KeyPath="copen"/>
     <ROW Component="dataversion.json" ComponentId="{30206BFA-FD89-409F-BE8F-C5DB1B70812D}" Directory_="LiveContent_Dir" Attributes="0" KeyPath="dataversion.json" Type="0"/>
+    <ROW Component="dataversion.json_1" ComponentId="{2167A252-10EF-4D15-A16E-1A844FDBEE5E}" Directory_="khmerprobackup_Dir" Attributes="0" KeyPath="dataversion.json_1" Type="0"/>
     <ROW Component="datetimeformat" ComponentId="{F96FA80F-5CB7-4AD3-A167-ED4BF2A5D68C}" Directory_="APPDIR" Attributes="4" KeyPath="datetimeformat"/>
     <ROW Component="day" ComponentId="{BA81C59A-ACB1-4409-9F0F-ADDCFFD5784C}" Directory_="APPDIR" Attributes="4" KeyPath="day"/>
     <ROW Component="disable_target" ComponentId="{62247D10-4575-4DC0-964F-23F042E7315A}" Directory_="APPDIR" Attributes="4" KeyPath="disable_target"/>
@@ -399,6 +401,12 @@
     <ROW File="SuwannaphumRegular.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~4.TTF|Suwannaphum-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Regular.ttf" SelfReg="false"/>
     <ROW File="SuwannaphumThin.ttf" Component_="AgentosUI.ttf" FileName="SUWANN~5.TTF|Suwannaphum-Thin.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Suwannaphum-Thin.ttf" SelfReg="false"/>
     <ROW File="TapromRegular.ttf" Component_="AgentosUI.ttf" FileName="TAPROM~1.TTF|Taprom-Regular.ttf" Version="65535.65535.65535.65535" Attributes="0" SourcePath="Khmerpro\Files\Fonts\Google\Taprom-Regular.ttf" SelfReg="false"/>
+    <ROW File="dataversion.json_1" Component_="dataversion.json_1" FileName="DATAVE~1.JSO|dataversion.json" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\dataversion.json" SelfReg="false"/>
+    <ROW File="Khmerpro.dotm_1" Component_="dataversion.json_1" FileName="KHMERP~1.DOT|Khmerpro.dotm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\Khmerpro.dotm" SelfReg="false"/>
+    <ROW File="Khmerpro.pptm" Component_="dataversion.json_1" FileName="KHMERP~1.PPT|Khmerpro.pptm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\Khmerpro.pptm" SelfReg="false"/>
+    <ROW File="Khmerpro.xlam_1" Component_="dataversion.json_1" FileName="KHMERP~1.XLA|Khmerpro.xlam" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\Khmerpro.xlam" SelfReg="false"/>
+    <ROW File="Normal.dotm_1" Component_="dataversion.json_1" FileName="NORMAL~1.DOT|Normal.dotm" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\Normal.dotm" SelfReg="false"/>
+    <ROW File="Content_Types.xml" Component_="dataversion.json_1" FileName="_CONTE~1.XML|[Content_Types].xml" Attributes="0" SourcePath="..\..\..\AppData\Roaming\Microsoft\Templates\LiveContent\khmerprobackup\[Content_Types].xml" SelfReg="false"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
     <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
@@ -565,6 +573,7 @@
     <ROW Feature_="MainFeature" Component_="TelegramID"/>
     <ROW Feature_="MainFeature" Component_="disableupdatelibrary"/>
     <ROW Feature_="MainFeature" Component_="Searchbox"/>
+    <ROW Feature_="MainFeature" Component_="dataversion.json_1"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiFontsComponent">
     <ROW File_="AgentosUI.ttf"/>
